@@ -20,7 +20,7 @@ async function run() {
       
     //   const query = { title: 'Back to the Future' };
     //   const movie = await movies.findOne(query);
-      console.log("o");
+      console.log("ok");
     } finally {
       // Ensures that the client will close when you finish/error
       await client.close();
